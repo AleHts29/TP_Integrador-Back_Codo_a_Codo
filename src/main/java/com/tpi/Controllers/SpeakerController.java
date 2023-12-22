@@ -34,5 +34,4 @@ public class SpeakerController {
         speakerService.DeleteByID(id);
         return ResponseEntity.ok(HttpStatus.NO_CONTENT);
     }
-
 }
