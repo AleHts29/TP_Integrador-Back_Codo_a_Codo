@@ -1,3 +1,6 @@
+# FrontEnd
+https://github.com/AleHts29/TP_Integrador-Front
+
 # Descripción de Clases y Controladores
 
 En este proyecto, se han implementado tres controladores principales para gestionar entidades específicas: Usuarios, Oradores y Gestión de Tickets. A continuación, se presenta una breve descripción de cada clase y su funcionalidad.
